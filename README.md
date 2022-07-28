@@ -12,6 +12,9 @@ The datasets include a text file containing data about accessibility in Helsinki
 </ul>
 </p>
 
+<p> 
 <img src="https://github.com/mutugi-c/Classifying-data/blob/main/Itis_Public_T_tt.png" alt="">
 
 <img src="https://github.com/mutugi-c/Classifying-data/blob/main/Itis_Car_T_tt.png" alt="">
+
+</p>
